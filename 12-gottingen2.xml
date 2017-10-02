@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>University of Göttingen MS SAN 194.2</title>
+            </titleStmt>
+            <sourceDesc>
+
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <institution>University of Göttingen</institution>
+                        <settlement>Göttingen</settlement>
+                        <country>Germany</country>
+                        <idno>SAN 194</idno>
+                        <idno type="Rau">F[6]</idno>
+                        <idno type="siglum">G<sub>2</sub></idno>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>This is a transcript of the second copy of the text in manuscript SAN 194 from the University of Göttingen. For a more detailed description of the manuscript, see G<sub>1</sub>.</summary>
+
+                        <msItem n="1" defective="false">
+
+                        <author>
+                            <persName xml:lang="sa" role="author">Bhartṛhari</persName>
+                        </author>
+                        <author>
+                            <persName xml:lang="sa" role="commentator">Helārāja</persName>
+                        </author>
+
+                        <title xml:lang="san">Dravyasamuddeśa</title>
+                        <title xml:lang="san" type="commentary">Prakīrṇaprakāśa</title>
+
+                            <rubric xml:lang="san"><milestone n="1v1"/>|| śrīgaṇeśāya namaḥ || śrī<sic>paṃta</sic>jalaye nama || niraṃtarāvamnāvat_</rubric>
+                            <incipit xml:lang="san"><milestone n="1v1"/>yasmin samukhatām prayāti ruciraṃ kāpyaṃ tarujjṛṃ<lb n="2"/>bhate nedīyām mahimā masyalinavaḥ</incipit>
+                            <explicit xml:lang="sa"><milestone n="30v11"/>iti tata evāvādhāryaṃ ihāpi saṃbaṃdhasamuddeśe vakṣyeta kāraṇāṃtaravyudā</explicit>
+
+                            <textLang mainLang="sa-Deva">Sanskrit in Devanāgarī script.</textLang>
+
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <supportDesc material="paper">
+                                <support>Paper.</support>
+                                <extent> 30 ff.
+                                    <dimensions type="leaf" unit="cm">
+                                        <height>16.3</height>
+                                        <width>21</width>
+                                    </dimensions>
+                                </extent>
+
+                                <foliation n="1" type="original">Devanāgarī numerals in black ink bracketed by double daṇḍas in red ink, top-left margin, verso.</foliation>
+                                <foliation n="2" type="modern"><p>European numerals penciled in under the Devanāgarī numerals, probably added by Kielhorn.</p></foliation>
+
+                                <condition>
+                                    Complete, in good condition.
+                                </condition>
+                            </supportDesc>
+
+                           <layoutDesc>
+                                <layout columns="1" ruledLines="X">
+                                    <p>13-15 lines per page.</p>
+                                    <dimensions type="akṣara" unit="mm">
+                                        <height></height>
+                                    </dimensions>
+                                    <dimensions type="interlinear space" unit="mm">
+                                        <height></height>
+                                    </dimensions>
+                                    <p>Left and right margins are framed by two to four red lines.</p>
+                                </layout>
+                           </layoutDesc>
+                        </objectDesc>
+
+                        <handDesc>
+                            <handNote scope="sole" script="devanāgarī" medium="black_ink">
+                                <desc>Devanāgarī in black ink with double daṇḍas in red ink. Invocation and section endings in red ink.</desc>
+                            </handNote>
+                        </handDesc>
+
+                        <additions>
+                            <p>Running marginal title (<quote xml:lang="sa">|| ha॰ ||</quote>), top-left margin, verso.</p>
+                        </additions>
+
+                        <bindingDesc>
+                            <desc>Bound in book form with Kielhorn's notes.</desc>
+                        </bindingDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <date calendar="Gregorian" when="1874">1874.</date>
+                            <origPlace>Sāgar</origPlace>
+                        </origin>
+                        <provenance>Comissioned by Franz Kielhorn from Nānā Shāstrī in Sāgar in 1874.</provenance>
+                        <acquisition>Acquired by the University of Göttingen.</acquisition>
+                    </history>
+
+                    <additional>
+                       <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>
+                                <biblStruct>
+                                    <monogr>
+                                        <title>Kielhorns Handschriften-Sammlung. Verzeichnis der aus Franz Kielhorns Nachlass 1908 der Göttinger Universitäts-Bibliothek überwiesenen Sanskrit-Handschriften. Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen</title>
+                                        <author>
+                                            <forename>Richard</forename>
+                                            <surname>Flick</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Göttingen</pubPlace>
+                                            <date>1930</date>
+                                        </imprint>
+                                    </monogr>
+                                </biblStruct>
+                                <biblStruct>
+                                    <monogr>
+                                        <title>Papers relating to the Collection and Preservation of the Records of Ancient Sanskrit Literature in India</title>
+                                        <author>
+                                            <forename>Archibald Edward</forename>
+                                            <surname>Gough</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Calcutta</pubPlace>
+                                            <publisher>Office of Superintendent of Government Printing</publisher>
+                                            <date>1878</date>
+                                        </imprint>
+                                    </monogr>
+                                    <citedRange>p. 203</citedRange>
+                                </biblStruct>
+                                <biblStruct>
+                                    <monogr>
+                                        <title>A catalogue of Sanskrit mss. existing in the Central Provinces, prepared by order of E. Willmot, esq., inspector general of education C. P.</title>
+                                        <author>
+                                            <forename>Franz</forename>
+                                            <surname>Kielhorn</surname>
+                                        </author>
+                                        <imprint>
+                                            <pubPlace>Nagpur</pubPlace>
+                                            <publisher>Government book depot</publisher>
+                                            <date>1874</date>
+                                        </imprint>
+                                    </monogr>
+                                    <citedRange>p. 90</citedRange>
+                                </biblStruct>
+                         </listBibl>
+
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+<encodingDesc>
+    <charDecl>
+        <glyph xml:id="n2">
+            <glyphName>DEVANAGARI LETTER NNA</glyphName>
+            <mapping type="standard">ṇa</mapping>
+            <desc>modern/southern style ṇa</desc>
+        </glyph>
+    </charDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change when="2015-06-01">
+    <persName>Charles Li</persName>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+<body>
+            <!-- PDF page 63 -->
+            <milestone n="26v4"/>
+            <div1 n="1" type="commentary">
+            <p xml:id="c3.2.1-0">jātir vā dravyaṃ vā padārthāv ity uktaṃ tatra vājapyāyanadarśanena jātiṃ viśeṣaṇabhūtāṃ padārthaṃ vyavasthāpya yāḍedarśanena <lb n="5"/>viśeṣyarūpaṃ dravyam iti pi padārthaṃ vyavasthāpayituṃ yathādarśanaṃ tad evaṃ paryāyāṃtaraikaddiśati ||</p>
+            <lg type="verse" id="3.2.1" xml:id="v3.2.1">
+            <l>ātmā vasta svabhā<lb n="6"/>vāpy aśarīraṃ tatvam ity āpi</l>
+            <l>dravyam ity asya paryāyāḥ||s tatvam itham iti smṛtaśa</l>
+        </lg>
+        <p xml:id="c3.2.1-1">
+ihārthakriyāyāṃ dravyam evopayujya<lb n="8"/>ta iti tad eva pravarttakam arthināṃ ataḥ śabdena tad evovyate anadhidhīyamānā tu jātir avachedikā guḍaśabde mādhu<lb n="9"/>ryādaya iveti dravyavādināṃ da dravyaṃ va dvividhaṃ pāramārthikaṃ sāṃvyavahārikaṃ va tatra dvitīyaṃ bhadyabhedakaprastavema gu<lb n="10"/>ṇasamuddeśe vakṣyati vasttūpalakṣaṇaṃ yatretyādina anena va dravyeṇa vyaḍidarśane sarve śabdā dravyābhidhāyine bhava<lb n="11"/>ti | 
+</p>
+
+        <p xml:id="c3.2.1-2">
+iha tu pāramārthikaṃ dravyaṃ nirūpyate tathā hi ātmādvaitavādibhir ātmaśabdena <sic>ta</sic> dravyayuktam ātmaiva hy upādhibhinnaṃ <lb n="12"/>pragtibhāsamānaṃ dravyaṃ padānām a<unclear>rtha</unclear> iti neṣāṃ darśanam ihaiva vakṣamāṇaṃ
+</p>
+
+            <p xml:id="c3.2.1-3">
+vasta svalakṣaṇam arthakriyākāri dravyam iti- <lb n="13"/>śākyair uktaṃ
+</p>
+
+            <p xml:id="c3.2.1-4">
+svabhāvam iti sattādvaitavādibhiḥ || svabhāva ātmabhūtā saṃteni kṛtvā tathā hi kramarūpo<add place="above">paṃ</add>sahāre sattaiva sa<lb n="14"/>tvabhi svaṃ saṃbaṃdhibhir upādhibhir upahita<add place="above">bhe</add>dā saiva dravyaṃ
+</p>
+
+            <p xml:id="c3.2.1-5">
+prakṛter ekadeśaḥ cetanaḥ punuṣas tadvāreṇa śarīraśarīriṇo vya<lb n="15"/>tirekā śarīraṃ dradhyaṃ pradhānam eveti prākṛtikaiḥ || śarīram evai ātmā yeṣāṃ tai śarīrātmabhir uvyate
+</p>
+
+            <p xml:id="c3.2.1-6">
+tatvam iti caturbhū<lb n="16"/>tatatvavādibhiś cārvākai dravyam uvyate pṛthivyap_taijovāyur iti tatvāni tatsamudāye śarīreṃdriyaviṣayaṃ sajñā i<pb n="27r"/>ti vavanāt_ ptad evam etaiḥ paramārtha ekam eva vastū
+</p>
+
+            <p xml:id="c3.2.1-7">
+vyam ity asyeti drabhidhāyitve vakṣyamāṇanaye vātmādiśapdānām eva sa<lb n="2"/>rvatra ghaṭādāv avyāhataprasyatvaṃ tathā va bhāṣyaṃ ko yam ātmā udakaṃ nātmeti | atrātmaśabda udake nāmeti atrātmaśabda u<lb n="3"/>dake prayujyamāno dravyavadanaḥ || sākṛtidvāreṇa vānye śabdāḥ || dravye varttate ime tu tatparityāgena mukhyayā vṛttyeti viśeṣaḥ <lb n="4"/>siddhe śabdārthasaṃbaṃdha ity atra dravyaṃ nityaṃm ākṛtir anyā vānyāvabhavatīti vadatā bhāṣyakāreṇa niṃtyaṃ dravyaṃ smṛti saṃgrahokta<lb n="5"/>sya tasyārthasyāvuvādā smṛtam ity āhā
+</p>
+
+            <p xml:id="c3.2.1-8">
+yady api śākyāhidarśane nityaṃ bhayati dravyaṃ tathāpi tanmatasyānabhyupagamād a<lb n="6"/>doṣaḥ || kevalaṃ yad asmākaṃ dravyaṃ tad anyair avem abhidhīyata ity evam atropanyāsāḥ || yac ca bhāṣyānusāreṇa svarūpānyathā<unclear>t tānāpapa<lb n="7"/>ptiḥ</unclear> || vikārabhede pi nityatvaṃ vivakṣim atreti sarvatra tat siddhiḥ
+</p>
+        </div1>
+        <div1 n="2" type="commentary">
+			<p xml:id="c3.2.2-0">
+paraṃ darśanāṃtarāśravaṇenodiṣṭagedy api dravyabhedeṣu svasi<lb n="8"/>ddhaṃ | tāśrayaṇe sāvaṃkrikīṃ dravyapadārthavyavasthī kartum āha |
+</p>
+		    <lg type="verse" id="3.2.2" xml:id="v3.2.2">
+	            <l>satvaṃ vakra tadākārair asatyair avadhāryate ||</l>
+	            <l>asatyopādhibhiḥ śa<lb n="9"/>bdaiḥ || sattyam evābhidhīyate |</l>
+		    
+</lg>
+		    <p xml:id="c3.2.2-1">
+iha sarvaśabdānāṃ paramārthikaṃ tatvaṃ sākṣāt praṣṭam aśaktānāṃ anekopādhiviṣayanihitapadā<lb n="10"/>nāṃ tadrūpāliṃganaṃ vyavahāre samālakṣyate upādhīnāṃ vāgamāpāyavaśavidhuritam ilasvarūpāṇām avisārthasamāsāpūra<lb n="11"/>ṇapratihataśaktiḥ || vān na tāvaty eva paryavasānam ity upalakṣitapṛchapātinaḥ || śabdā vyavasthāpyane avavṛtarūpaniveśitvā<lb n="12"/>c ca śabdānām avadhāraṇānusāram arthe prakṛti avadhṛtiś cākāradvariṇa nirākārasya vukṛyārohāyogāt_ yathāpratyatyayaṃ bhe<lb n="13"/>dāvasāyasya bādhyamānatvād anuyāyy abhitvam eva rūpaṃ paramārthaḥ || tad eva brahmarūpaṃ satyam |
+</p>
+	    </div1>
+        <div1 n="3" type="commentary">
+            <p xml:id="c3.2.3-0">
+syād etat | upādhiśu bdānāṃ viśrāṃ<lb n="14"/>tyabhāve śabdārthopādhitvaṃ teṣāṃ na syāt_ avādhyasya la upādhitvāyogāt_ ity etad vivārayitum āha |
+</p>
+            <lg type="verse" id="3.2.3" xml:id="v3.2.3">
+                <l>adhruveṇa nimittena de<lb n="15"/>vadattagṛhaṃ yathā |</l>
+                <l>gṛhīptaṃ gṛhaśabdena śuddham evābhidhīyato</l>
+            
+</lg>
+            <p xml:id="c3.2.3-1">
+ado dedevadattasya gṛhaṃ yatrāsau kākaḥ || prativasatīty anuniyatasvā<pb n="27v"/>mikagṛhopalakṣaṇāyopalakṣaṇabhūtasya kākasya utpatite pi tasmij upalakṣaṇasvakṛtatvād adhruvatvam iti tadanādareṇai<lb n="2"/>va tadupalakṣitaṃ gṛham abhidhīyate gṛhaśabdena tathā yathā vrakṛtisaṃbaṃdhād asa<unclear>hyā</unclear>pādhyupalakṣitaṃ satyam upādhirūpānādareṇa <lb n="3"/>śabdair abhidhīyamānasyāpy abhidhānaviṣayaniyāmakatvād upalakṣaṇatve saty upādhitvaṃ nidarśanebha samarthitaṃ tathā <lb n="4"/>hi ktaktavatū niṣṭhety anubaṃyyāprayogasamāvāyitvād adhruvasyopalakṣaṇatve tadrahitasya śuddhasya pratyayarūpasya saṃjñāṃ prasaṃ<lb n="5"/>ga ity atredaṃ bhāṣye darśanam uktam |
+</p>
+            </div1>
+        <div1 n="4" type="commentary">
+            <p xml:id="c3.2.4-1">
+nanu kāko tivilakṣaṇāgṛhāt_ bhedenāvadhāryamāṇo mā bhūd rahaśabdābhidheyaḥ || ghū<del><gap unit="akṣara" quantity="1" reason="illegible"/></del>da<lb n="6"/>yas tv ākārāḥ || pṛthakanupalabhyamānatatvāḥ || katham iva tachabdair nātidhīyeran_ anyo py upādhir upalakṣaṇaḥ bhūtaḥ sāmānā<lb n="7"/>dhir akaraṇyenāvachedakaḥ || tad yathā | iti hari<unclear>sya i</unclear> paśuḥ || anya<unclear>t tu</unclear> viśeṣaṇam apṛthak_śabdavācyam uṃparaṃjakaṃ tad yathā vāneya<lb n="8"/>m udakam iti vanasaṃbaṃdhopadhīyamānarūpaviśeṣaṇam asidhīyata iti vanaśarīrasaṃbaṃdho viśeṣaṇam uparaṃjakaṃ tadābhidheyaka<lb n="9"/>m ā<unclear>pā</unclear>padyata iti tathā voktam | arthaviśeṣa upādhitādaṃtavācyaḥ samānaśabdo yaḥ anupādhir ato nya syāt_ ślāghādiviśe<lb n="10"/>ṣaṇaṃ yadvad i<unclear>ty ā</unclear>śaṃkya sadṛśataram atra midaranam āha | 
+          
+</p>
+            <lg type="verse" id="3.2.4" xml:id="v3.2.4">
+                <l>
+suvarṇādi yathā yuktaṃ syair ākārair apāyi<space/>
+              </l>
+                <l>
+savakādyabhidhānānāṃ śuddham eve<lb n="11"/>ti vāvyatāṃ
+              </l>
+            </lg>
+            <p xml:id="c3.2.4-2">
+syaṃkakuṃḍalādhāraviśeṣo bhidhāyamānarūpābhedam api suvarṇam ity eva sarvatrānapāyirūpaṃ satyabh ity apāyibhi <lb n="12"/>ākāraviśeṣais tatsādhyārthakriyākaraṇān na tetraiva ruvakādiśabdā kṛtapadasaṃbaṃdhāḥ || kiṃ tu tadatirivyamānam arthavasy abhi<lb n="13"/>dheyakatana samāviśatti tadvat tatvakṛtisaṃbaṃdhād āropahitanānātvam api paratvaṃ śadagovaram ity arthaḥ || tatra vāpāyibhir iti <lb n="14"/>hetunirdeśaḥ || śakyasama<add place="above">ka</add>kṣatayā vṛtaḥ || tataś vopādhinām avāvyatvema satyatvaṃ ca sidhyati asatyatvād evārthākriyākaraṇā<lb n="15"/>t tadarthaṃ va śabdavyavahārād avāvyatvaṃ teṣām ity arthaḥ ||
+          
+</p>
+            <p xml:id="c3.2.4-3">
+nanu va kāryādau prakṛtyanvayo vadhāryata prava ihāpi vastūnāṃ jāyamānatvena sa<pb n="28r"/>tvāt_ jñānasya vaikalpikārāvavasthānām irākāraśuddhasaṃvinmātrānugamasya svasaṃvitsiddhatvād aśeṣaḥ nanu viśeṣaṇo<lb n="2"/>paraktaṃ viśeṣyābhidhānam ity upasarjanībhūtasyāribhānaṃ kā kṣatiḥ na kāvit kevalam upādhir vyavātra tātparyadṛ<unclear>ṣṭyā</unclear> padabaṃdho ni<lb n="3"/>vāryate guṇatvena tv abhidhānam astu na tīvaty eva viśrāṃtir iti dravyanisiddhiḥ
+</p>
+        </div1>
+        <div1 n="5" type="commentary">
+            <p xml:id="c3.2.5-0">
+ata eva viṣaṇovasaṃgā sāṃkaryadoṣaṃ pariha<lb n="4"/>rttum āha |
+</p>
+            <lg type="verse" id="3.2.5" xml:id="v3.2.5">
+                <l>ākāraiś ca vyavadvedāt sāmarthyām avarudhyate ||</l>
+                <l>yathaiva vakṣurādīnāṃ sāmarthyaṃ nāḍikādibhiḥ ||</l>
+            
+</lg>
+            <p xml:id="c3.2.5-1">
+sarvatāveśu brahmaṇo dravya<lb n="5"/>lakṣaṇasyābhedat tadatidhātitve śabdānāṃ sarvatra tasya bhāvā sārvārthyaṃ śabdāṃtarātidhīyamānārthatvaṃ sāṃkaryaṃ pramajyetety atreda<lb n="6"/>n ucyate pratiniyatākāraparichinavṛttitvā sarvārthatvapratibaṃdhād asaṃkara ity arthaḥ |
+</p>
+            <p xml:id="c3.2.5-2">
+ghāṭākāropadhīnapuraḥsaṃra ghaṭaśabdena- <lb n="7"/>brahmadravyam abhimukhīkriyate paṭākāropadhānena tu paṭaśaddenetyādy upādhirūpopahitavivekitvaṃm atidhānīyata yathā nā<lb n="8"/>ḍikāśuṣiravarmanihitanayanās tadavakyasāvasthitam evārthahāgaṃ vaśyaṃti tathāvadhiṃnaṃ dakūśaktibhir akārabhedair avevastū<lb n="9"/>palakṣyate tathaiva yathādhyavasāyaṃ śabdaniveśāchabdair abhidhīyata ity artha ||
+</p>
+            <p xml:id="c3.2.5-3">
+yathāvaraṇāmineṃdriyasyaiva prakāśāśaktiḥ pra<lb n="10"/>tibadhyate na viṣayo vikriyate tathānādyāvachedaprakalpatavibhāgānāṃ jījñānām eva saṃvedanaśaktir niyamyate yena vichi<lb n="11"/>nāyātidhī || tena bhedaviṣayāsmābhidhānāni prāyuṃjate na tu tatvam avidyayāvanīkṛteya iti nāḍikānidarśanena sū<lb n="12"/>vayati nāḍikādibhir ity ādigrahaṇāvadhīnaprativātamarttyatijanāghṛvarodhaḥ<space/> yatrai‾vyevghavadhānaṃ tad eva hy a<lb n="13"/>dyadhāryate mūrcyabhi<add place="left-margin">ja</add>no ya sauṃdarya tenāpa<unclear>hu</unclear>to nyaṃ na paśyati
+</p>   
+        </div1>
+        <div1 n="6" type="commentary">
+            <p xml:id="c3.2.6-0">
+tye tahy āṃkāramāganirveśataḥ || eṃniveśāriśabdā || te dha<lb n="14"/>rmamātram abhidadhyuḥ || iti sāva<unclear>rtri</unclear>kī dravyapadārthavyavasthāviśīryota ty āśaṃkyāha |
+</p>
+            <lg type="verse" id="3.2.6" xml:id="v3.2.6">
+                <l>tiṣv ākāreyuyūḥ || śabdaḥ tathāḥ bhūte<lb n="15"/>dhyu varttato</l>
+                <l>ta cātmakatvāt tenāpi nitya<space/>m evābhidhīyate |</l>
+            
+</lg>
+            <p xml:id="c3.2.6-1">
+upādhimātrasvalāves tu pi saṃniveśādyākāreśur sanive<del rend="diacritic crossed out">o</del>śādi<pb n="28v"/>śabdāḥ ||  varttamājāḥ paramārthatas tatvād avyatirekād upādhīnāṃ na tu mi<unclear>ṣka</unclear>rṣe svarūpatvādy atmanaiva sattāt tad eva nityam upā<lb n="2"/>dhimadravyam āpatidhāne ti tatvam ātmā hy unādhīnāṃ na tu te tasyātmāne iti vyāpakatvāt sarvapadopādhayas tadātmanā saṃtas ta<lb n="3"/>thaivātidhīvate yadā hy upādhimadhīnatā tadopādheva vapādhayo na bhavaṃti tata śrutipūrve dharmotarāśrayatayā <unclear>svā</unclear>taṃtryad u<lb n="4"/>pādhimatva va nopādhitvam ity āśaya ||
+</p>
+        </div1>
+        <div1 n="7" type="commentary">
+            <p xml:id="c3.2.7-0">
+yady evaṃ dharmāṇāṃm avasthāṃtare dharmirūpatvānityatve satyatve vākārāṇām asatyatvaṃ <lb n="5"/>dravyasya tu satyatvam ity etasya niyūmesyānupapattir ity āśaṃkyāha ||
+</p>
+            <lg type="verse" id="3.2.7" xml:id="v3.2.7">
+                <l>na ca tasyayārte darati dhruvebhya āgamaḥ ||</l>
+                <l>atatvam iti <lb n="6"/>manyaṃte tatvam evāvivāvivāritaṃ ||</l>
+            
+</lg>
+            <p xml:id="c3.2.7-1">
+ayam atrārthaḥ || neho dvaitanaye satyāsatye dve rūpe staḥ advaitahāniprasaṃgāt_ kiṃ tu paramārtheka<lb n="7"/>m ekam evādvayaṃ cchānādisiddhāt__ nidhavilaṃvinasahapramāpramāsṛdviṣṭhayatayā yathātvam anavabhāsamānam anekakika<lb n="8"/>lpaparighaṭitākārarūpatayā vyavahāram avatarati tathā va tad evākāranānātve nīyamānasvarūpabhedaṃ vakāsti nānya<lb n="9"/>t_ tadhvatiriktasyānyasyābhāvāt_
+</p>
+            <p xml:id="c3.2.7-2">
+tatra va yo yaṃ prakāśaḥ || mavidhā aprakāśakta namo vidhā na va prakāśābhāvo gakāśo nā<lb n="10"/>ma kaścihāmāṇāsiddho nirūpyaḥ || tataḥś ca yo yaṃ bhedaprakāśaḥ || sevaikaghanaprakāśātāvaḥ || prakāśavichedo vipā tatra<lb n="11"/>va vichinānvayo vachedo vadhāyate iti vichinnaprakāśaḥ || satyo viccaiva vichemātraṃ tv apradhānasvabhavaṃ na kiṃvid avi<lb n="12"/>dheti paramārthatvavivāre kiṃvih atatvaṃ vyavatiṣṭhate tatvam evāyathāpratibhāsaṃ bhedena vakāsaṃd avivāritaramaṇīyaṃ paṃco<lb n="13"/>dayā vyavasthitaṃ tatvam evāsinaṃ tīrthikā bhedadarśanavyavasthitā bhedātmakata manyūṃta iti vivāreṇa vidyākilaye bra-<lb n="14"/>hmaikanichatā darśanaṃ || tan uktaṃ satya viśuddhis tatroktā vidyaivetyādi |
+</p>
+        </div1>
+        <div1 n="8" type="commentary">
+            <p xml:id="c3.2.8-0">
+evaṃ tena jūpeṇa brahmaiva vikalpitaṃ bhavatīti sa<lb n="15"/>rvaviṃvānāṃ tadupādhibhuravaṃ tad eva viṣayaḥ || siddha ity āhā
+</p>
+            <lg type="verse" id="3.2.8" xml:id="v3.2.8">
+                <l>vikalparūpaṃ || bhajete tatvam evāvilpitamā</l>
+                <l>na vātra kā<pb n="29r"/>labhedakta gṛhyate</l>
+            
+</lg>
+            <p xml:id="c3.2.8-1">
+paramārthataḥ || avikalpitaṃ vikarabhyānām amiṣayo yatatvaṃ tad eva tyavahāre nyasyād vikalpamānaṃ vikalpa<lb n="2"/>rūpaṃ nānāvidhabhedāvabhāsamānād asiddhāvidyāvaśāt samavalaṃbate jīcātmabhedenāvatiṣṭhamānaṃ tadgatatvenerti vivarttā<lb n="3"/>śrayād avaśaktivibhaktadeśamānātvaṃ nimittapaurvāparyā<unclear>vu</unclear>laṃbanasahaṃ evam akālakalitam api tatvam anādinidhanaṃ kālā<lb n="4"/>khyasvataṃtraśaktiviniveśitapratiṃvadhābhyanujñāvaśāj janmādibhāvapikārābhidhīyamānapaurvāparya cakāstīty arthaḥ ||
+</p>
+        </div1>
+        <div1 n="9" type="commentary">
+            <p xml:id="c3.2.9-0">
+nanv a<lb n="5"/>vidyama<unclear reason="unfinished">mā</unclear>nasya tatve pratibhānabhayuktaṃm ity āśaṃkā dṛṣṭāṃtenomamādayāti |
+</p>
+            <lg type="verse" id="3.2.9" xml:id="v3.2.9">
+                <l>yathā viṣayadharmāṇāṃ jñāne ṃtyaṃnam asaṃbhavātā</l>
+                <l><lb n="6"/>tadātmeva va tastiddham atyaṃtam atadātmakaṃ ||</l>
+            
+</lg>
+            <p xml:id="c3.2.9-1">
+vijñānavāde viṣayākārasya tāvato sātyatvāt__ nīlādis tat sahite | dharmo jaḍe <lb n="7"/>jñāne saṃmāva<del rend="diacritic crossed out">ai</del>tair atyaṃtam iti jaḍājaḍayor na kenavid aṃśena sārūpyam ity āha tathā voktamā ekadeśena sārūpye saṃrva syāt sarva<lb n="8"/>vedanāṃ || sarvātmanā tu sabhūpye jñānam ajñānatāṃ vrajed iti
+</p>
+        </div1>
+        <div1 n="10" type="commentary">
+            <p xml:id="c3.2.10-0">
+athavā saṃtavadharmāchuritaṃ vijānaṃ viśuṃvodhasvabhāvam apy anu<lb n="9"/>jāyādy avahāre vabhāsata iti itthaṃ nidarśanāṃtaram āhā
+</p>
+            <lg type="verse" id="3.2.10" xml:id="v3.2.10">
+                <l>tathā vikārarūpāṇāṃ tat te tyaṃtam asaṃbhavaḥ</l>
+<l>tadātme<unclear>va ca</unclear> tattacam atyaṃtam atadā<lb n="10"/>tmakaṃ |</l>
+            
+</lg>
+            <p xml:id="c3.2.10-1">
+sāṃkhyāvikṛtaṃ pradhānatatvaṃ sarvavikāragraṃthicījāvasthaṃm abhinamaṃ nupabhṛṣṭa<unclear>m e</unclear>va <del>śopajā</del>mahadādivikārarūpaiḥ || paramā<lb n="11"/>rthataḥ || tad dhi mahadādivikāraśaktiyuktaṃ muṇasāmyāvasthātmakaṃ guṇavaiṣamyavimarddavaśopajāyamānavikāranānātvād vila<lb n="12"/>kṣaṇam eva adyaṃ va <unclear>sra</unclear>vahāre mahadādivikārarūpāvadhāṇo na vinā tadupalaṃbhāsaṃbhava iti sarvadeśe vyadhiyātradhinī yavamā<lb n="13"/>py ākāro pradhānena tatvaprati<unclear>mā</unclear>saḥ siddha iti sārthānvayo gṛhītaḥ |
+</p>
+        </div1>
+        <div1 n="11" type="commentary">
+            <p xml:id="c3.2.11-0">
+katha punar etad anyāmyate ākārā asatyās tato nyat satvam i<lb n="14"/>ty āha |
+</p>
+            <lg type="verse" id="3.2.11" xml:id="v3.2.11">
+                <l>satyam ākṛmisaṃhāre yad aṃte vyavatiṣṭato</l>
+<l>tāni śabdavācyaṃ tachabdātva<unclear>dha</unclear> na vidyato</l>
+            
+</lg>
+            <p xml:id="c3.2.11-1">
+tad eva hi nityaṃ yasmiṃ sūtvaṃ na vihanyate <lb n="15"/>iti bhāṣyanusāreṇaitad uvyate | tathā hy atroktaṃ kanam ity eva satyaṃ punar ayākṛtyāny uktaṃ khadirāṃgāraḥ suvarṇakuṇdale bhakta ity anenai<pb n="29v"/>va dṛkṣyaṃte na vikārāpekṣayā bhinnasya brahmaṇaḥ satyatovyate | tathā hi | tatra rūpakādyākāropamarddena suvarṇam ity eva satyaṃ evam anaṃ<lb n="2"/>tavikāragrāmopāye saṃrvāte vatipramāṇam anyadyāpi brahmarūpaṃ satyaṃ | tad eva va bhāvato nityam āpekṣyaṃ tu nātvādīnāṃ sarvavyavahāre ni<lb n="3"/>tyatva ucyato tathā hi vyaktapāye jātir iveti mamānā gotrādikā nityā tatrā<unclear>py a</unclear>śvattādibhedatyāye pṛthivīty eva satyaṃ tatrāpy a<lb n="4"/>vādibhedāpāye vastv ity e<unclear>va</unclear> satyaṃ sarvanāmapratvāyyaṃ tatrāpi saṃvidrūpatyyanapāyino nugamāviṣāyākāraviveke tad eva pāramārthi<lb n="5"/>kaṃ satyam iti neti nety upāsīteti | bhāvanayā voyate saṃvi<unclear>t ca</unclear> paramaṃtīrūpā parā vākyaśabdabrahmamayīti brahmatatvaṃ śabdāt pāramā<lb n="6"/>rthikāt__ na bhidyate vivattaṃ daśāyāṃ tu vaikharyātmanā bhedāḥ tatra ca tad eva nityaṃ jātyādirūpeṇe śabdavācyaṃ tatrāṃtare pādānaviśrātyā <lb n="7"/>vākat__tasya vyavasthāpanāt svarūpāṃtānisyārthasya vācyatvād vāvyavāvakayor avibhāgaḥ || siddhāḥ iti prathamakāṃḍe niṣītaṃ ata e<lb n="8"/>vānaṃtaram ihābhidhāsyati tasya śabdārthasaṃbaṃdhaṃ rūpam ekasya dṛśyata iti
+</p>
+        </div1>
+        <div1 n="12" type="commentary">
+            <p xml:id="c3.2.12-0">
+yad uktaṃ tadātmeva ca ttatvam atyaṃtam atadātmakam iti tatrā<lb n="9"/>tyaṃtam atadātmakātāṃ tāva<unclear>d vyā</unclear>vaṣṭo
+</p>
+            <lg type="verse" id="3.2.12" xml:id="v3.2.12">
+                <l>na tad asti na ta nāsti na tad ekaṃ na tat pṛthak |</l>
+                <l>na maṃsṛṣṭaṃ vibhaktaṃ na vikṛtaṃ na va nānyathā |</l>
+            
+</lg>
+            <p xml:id="c3.2.12-1">
+vaikārika<lb n="10"/>sarvavyavahāramatīgatvāt pāramārthikena rūpeṇa vikārātmakaṃ tatvaṃ na bhavati tathā hi asīti na śakyate vyavaharbhu satvopādhikasya <lb n="11"/>svarūpa<unclear>sya</unclear> tatvasya bhāvayogāt tenātmanā vyavahārānavatārāt | nāpi nāstīty abhāvopādhikasyāpy atathāt pramāṇena bhāvātmakasya <lb n="12"/>tv asyāveditatvād
+</p>
+            <p xml:id="c3.2.12-2">
+ekasaṃkhyopādhīyamānasvarūpam aviśeṣaṃ tatvaṃ na bhavati nirūpādhitaḥ || tatvasya vastvuto bhiṃnatvāt tathā vaikam ity apra<lb n="13"/>tīteḥ || nāpi pṛthak_hitaviśeṣaṃ tahinnasyāsatvāte
+</p>
+            <p xml:id="c3.2.12-3">
+nāpi saṃsargopādhikaṃ vibhāgopādhikaṃ vā tato dvitīvyasya pramāṇenānupapa<lb n="14"/>tteḥ || kuto bhinnaṃ vittaktaṃ vet keṃna vā saṃsṛṣṭaṃ syāt
+</p>
+            <p xml:id="c3.2.12-4">
+pariṇāmaniṣedhena vivarttābhupagamān na vikṛṃta anekadhāvaśrīmarūpattayā vādbhu<lb n="15"/>tayā vṛttyā vivarttanādivikṛtam ity api na śakyate vyavahartum iti sarvavyapadeśātītatvaṃ paraṃ brahma
+</p>
+        </div1>
+        <div1 n="13" type="commentary">
+            <p xml:id="c3.2.13-0">
+atha va tadātmavāviṣāyām avadhā<pb n="30r"/>yeta ity āhā
+</p>
+            <lg type="verse" id="3.2.13" xml:id="v3.2.13">
+                <l>tan nāsti vidyate tatva tad aikaṃ tat pṛthak_ pṛthak |</l>
+                <l>saṃsṛṣṭaṃ va vibhaktaṃ va vikṛtaṃ tat tad anyathā ||</l>
+            
+</lg>
+            <p xml:id="c3.2.13-1">
+bhāvābhāvadhikārāvabhāsajana<lb n="2"/>śakti tad evāsti va satvāsattopādhikavyavahāram ahāṃbhavas tu niḥsattāsaṃttaniḥsadasat paraṃ brahma vyavahārikaṃ vaikānekavyavahā<lb n="3"/>raṃ jātivyaktyātmanā tad eva varttayati saṃkhyopādhikam api va evaṃ saṃyogāpādhikam api anyasaṃsargitayāvabhāsanāt_ evaṃ vi<lb n="4"/>vekāvasāyas tatra tathā sama<unclear>sta</unclear>vikārātmanā janyamānam ivākāśādyātmanā kū<unclear>ṭastha</unclear>yā tad evāvabhāsa iti tadātmaiva tatvam ity u<lb n="5"/>ktaṃ
+</p>
+        </div1>
+        <div1 n="14" type="commentary">
+            <p xml:id="c3.2.14-0">
+evaṃ ca kṛtvā sarvasya tanmayatvād virodhino pi vyavahārās tatraivopalīyaṃta ity āha ||
+</p>
+            <lg type="verse" id="3.2.14" xml:id="v3.2.14">
+                <l>tasya śabdārthasaṃbadharūpam ekasya dṛśya<lb n="6"/>te</l>
+                <l>tadṛśya darśanaṃ draṣṭā darśane ca prayojanaṃ |</l>
+            
+</lg>
+            <p xml:id="c3.2.14-1">
+vācyavāvakasaṃbaṃdhānā sāvato dvayarūpato tatra sāṃtaro tatvaśrutyarthaśaktī saṃsṛjyete i<lb n="7"/>ti vivarttadaśāyāṃ śrutyarthaśākhātmanā tasyaiva vikāsād vāvyavāvak_rūpatayā bhedāvabhāsau jñānajñeyaivāvidyeteti brahmakāṃḍa <lb n="8"/>eva prapaṃcayam artho mmābhi virṇota imi tata evāvadhāyāṃ 
+            </p>
+            <p xml:id="c3.2.14-2">
+dṛśyarūpatayā va tasyaiva vivarttaḥ || tathā hi dṛśyaṃ tāvahāvajāṃta saṃvi<lb n="9"/>rupārūḍhaṃ vedyamānaṃ vedyatvād eva vedam anekam aparārtha prakāśasya prakāśamānatāyogād iti pūrvakāṃḍe dvitīyasiddau va vitatya vicā<lb n="10"/>ritaṃ draṣṭāpi jīvātmā avidyākṛtāvachedo niyataḥ || satvaṃ sārī bhoktā brahmaiva vetanatvāhrāvato bhedānupapatter iti tatrevāve<unclear>kṣitaṃ</unclear> <lb n="11"/>anena va pradhāvakartṛkarmarūpakārakaniśvayena kārakatirasyāpekṣasiddharūpo vivarttaḥ || pratipāditaḥ ||
+</p>
+            <p xml:id="c3.2.14-3">
+darśanaśabdena va pradhā<lb n="12"/>nakriyānirdeśakena kriyāṃtarasyāpekṣyāt sadhyasvabhāvakriyāvivartto py uktaḥ kālaśaktyavachinnādi kriyāvivarttaḥ || divaśa-<lb n="13"/>ktyavachinnaṃsya mūrttivivarttya iti mūrttikriyāvivarttarūpaṃ viśvaṃ pratipādiṃta |
+</p>
+            <p xml:id="c3.2.14-4">
+prayojanaśabdena va samatikriyāphala iti nidarśa <lb n="14"/>iti sādhyasādhanaphalarūpatayā viśvasaṃkalānāyām aśeṣavivarttānuguṇyaṃ brahmaṇaḥ || pratipāditāṃ || ekasya sarvapījasya veya<lb n="15"/>yam ekadhā noktabhoktavyarūpeṇa bhogarūpeṇa sthitir iti brahmakāṃḍe pratipādivaṃ tatraiya va satatvanirṇayo smābhi vyavadhāyi prā-<pb n="30v"/>dyopākhyātmākatvāt_ vyavahārasya dditye śabdārthasaṃbaṃdharūpaṃ tadṛśyadarśanaṃ veti bhede‾sra nirdeśaḥ || etav vāvidhyāmayaṃ rūpaṃ kathyate ta <lb n="2"/>pāramārthikaṃ tu prakāśāṃtaprapaṃcarūpaṃ vakṣyati yatra draṣyāvasā dṛśyaṃ vaṃ darśanaṃ vāvikalpitaṃ tasyaivārthasya prityatvaṃ śritās traiṣyaṃtavedi<lb n="3"/>na iti
+</p>
+        </div1>
+        <div1 n="15" type="commentary">
+            <p xml:id="c3.2.15-0">
+yuktam idaṃ ākṛtisaṃhāre te yad avatiṣṭhate tat satyaṃm iti taitrat syād ante ja kiṃvid avatiṣṭhate asadam apadam eṃvaitad viśvam āvi<lb n="4"/>rbhavatīty āśaṃkyāpi hetunā'bhinnakāraṇapūrvakatvam anvayamukhenna dṛ<sic>stāṃ</sic>topakramaṃ sādhayitum āha ||
+</p>
+            <lg type="verse" id="3.2.15" xml:id="v3.2.15">
+                <l>vikārāpagame sa suṃvarṇaṃ <lb n="5"/>kuṃḍale yathā</l>
+                <l>vikārāpagame satyāṃ tathāhuḥ || prakṛviṃ paṇāṃ</l>
+            
+</lg>
+            <p xml:id="c3.2.15-1">
+kuṃḍala<unclear>svā</unclear>tmakavikārāpāye dhe kuṃḍale suvar<g ref="#n2">ṇa</g>m ekaṃ satyam avati<unclear>ṣṭhate</unclear> ya<lb n="6"/>thā tathā pṛthivyādivikāravigame nvayinī prakṛtir abhiṃbhā saty avatithata ity upeyaṃ āhur ity āgamapramāṇasiddhatāṃ dhvanati bra<lb n="7"/>hmaṇaḥ tathā <unclear>co</unclear>ktaṃ ekam eva padāmnātaṃm iti ātmaivedaṃ śasvam iti hi śrutiḥ upodvalamātraṃ vānumānaṃ tathādi nirūpākhyād a<lb n="8"/>sato parāt prādurbhāvo na yuḥktaḥ śvabhāvasya bhāvarūpatvavirodhān na hi śaśaśṛṃgāt kasyavid <unclear>udva</unclear> | kṣodbhavo dṛśyate asti ca jñānarūpa<lb n="9"/>tayā jagaty anvaya iti tatpūrvam evaiva tat || ta‾ śvadhyati nvābhāvo jāyate bhāvo naikabhāvo nupākhyatāṃm iti || tasya vidrūpasya vi<lb n="10"/>chaktir apariṇāminīti vikārābhāvān nedaṃ śāṃkhyanayavatvarināmadarśanaṃ api tu vivarttapakṣaḥ || viśeṣaś va | nayor gākyamadīye <lb n="11"/>smābhir vyākhyātam iti tata evāvādhāryaṃ ihāpi saṃbaṃdhasamuddeśe vakṣyeta kāraṇāṃtaravyudā
+</p>
+        </div1>
+        <!--div1 n="16" type="commentary">
+        <p></p>
+            <lg type="verse" id="3.2.16" xml:id="v3.2.16">
+                <l></l>
+                <l></l>
+            </lg>
+            <p></p>
+        </div1>
+        <div1 n="17" type="commentary">
+            <p></p>
+            <lg type="verse" id="3.2.17" xml:id="v3.2.17">
+                <l></l>
+                <l></l>
+            </lg>
+            <lg type="verse" id="3.2.18" xml:id="v3.2.18">
+                <l></l>
+                <l></l>
+            </lg>
+            <p></p>
+            <p></p>
+            <lg type="quote">
+                <l></l>
+                <l></l>
+            </lg>
+            <p></p>
+            <p></p>
+            <p></p>
+        </div1>
+        <div1 type="end">
+        <p></p>
+        </div1-->
+        </body>
+    </text>
+</TEI>
